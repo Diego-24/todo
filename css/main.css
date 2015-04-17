@@ -5,8 +5,8 @@
 
 body {
 	font: normal 14px 'Open Sans', Arial, sans-serif;
-	color: #999;
-	background: #f1f1f1;
+	color: #B40404;
+	background: #088A85;
 }
 
 .wrap {
@@ -17,7 +17,7 @@ body {
 .task-list {
 	width: 88%;
 	min-height: 300px;
-	background: #fff;
+	background: #F3E2A9;
 	box-shadow: 2px 2px 0px #ddd;
 	margin-top: 40px;
 	padding: 22px 6%;
